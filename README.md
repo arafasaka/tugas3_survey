@@ -1,11 +1,11 @@
 # tugas3_survey
 Tugas Survey mata kuliah
 
--Nareswari Dyah P 	21120117120002
+- Nareswari Dyah P 	21120117120002
 
--M fadhli Hisyam 	21120117130078
+- M fadhli Hisyam 	21120117130078
 
--Ara Fasaka	21120117140014
+- Ara Fasaka	21120117140014
 
 -
 -
